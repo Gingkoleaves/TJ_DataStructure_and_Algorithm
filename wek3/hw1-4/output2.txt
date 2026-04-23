@@ -1,0 +1,15 @@
+NULL
+NULL
+Spade 6
+Heart 8
+NULL
+Spade 3
+Spade J
+Heart 9
+Club 3
+Diamond 8
+Diamond 3
+Club Q
+Diamond 10
+Heart 2
+Spade 4

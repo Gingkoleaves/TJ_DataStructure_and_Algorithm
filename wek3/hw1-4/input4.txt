@@ -1,0 +1,51 @@
+50
+Append Diamond 8
+Append Spade 3
+Append Club A
+Append Spade 7
+Append Club 5
+Append Heart 4
+Pop
+Append Diamond Q
+Revert
+Revert
+Append Heart J
+Revert
+Append Heart Q
+Pop
+Pop
+Append Club 4
+Revert
+Revert
+Pop
+Pop
+Revert
+Append Spade 7
+Append Diamond 4
+Append Heart J
+Append Club J
+Pop
+Append Club 10
+Pop
+Append Club Q
+Append Club 2
+Append Club 6
+Pop
+Append Diamond 7
+Pop
+Pop
+Append Club 7
+Append Spade 9
+Revert
+Pop
+Append Club 5
+Pop
+Revert
+Append Heart 6
+Pop
+Pop
+Revert
+Append Spade 6
+Revert
+Append Diamond 8
+Append Diamond J

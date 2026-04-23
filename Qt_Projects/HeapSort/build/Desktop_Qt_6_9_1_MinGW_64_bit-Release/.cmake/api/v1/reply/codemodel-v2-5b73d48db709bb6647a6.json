@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-e17baf506bcaa3c1a549.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HeapSort",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HeapSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeapSort-Release-ebc7e07fd4ba129024cb.json",
+					"name" : "HeapSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HeapSort_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeapSort_autogen-Release-7fc3d4f5e5973890f872.json",
+					"name" : "HeapSort_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HeapSort_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeapSort_autogen_timestamp_deps-Release-0b946d43c4395fa74650.json",
+					"name" : "HeapSort_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Tongji/SecondGrade/DS_Algorithm/Qt_Projects/HeapSort/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release",
+		"source" : "D:/Tongji/SecondGrade/DS_Algorithm/Qt_Projects/HeapSort"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

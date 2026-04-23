@@ -1,0 +1,101 @@
+Diamond Q
+Spade 5
+Spade 10
+NULL
+NULL
+Heart 6
+Club 5
+Spade 9
+Heart A
+Club 7
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+Club 6
+NULL
+Club 7
+Diamond 7
+Diamond Q
+Club 9
+Club 8
+Heart 10
+Spade J
+Diamond Q
+Heart A
+Club 9
+Club 9
+Club J
+Heart 8
+Diamond 10
+Club J
+Heart J
+Heart A
+Club 4
+Diamond 3
+Diamond 5
+Club 4
+Diamond A
+Diamond A
+Club 2
+Club 4
+Club 4
+Club 6
+Club Q
+Diamond 5
+Spade A
+Spade A
+Spade 7
+Club 7
+Club K
+Heart 9
+Heart 2
+Spade Q
+Club 4
+Heart 8
+Diamond 2
+Diamond 4
+Diamond 5
+Diamond 5
+Heart 4
+Heart 9
+Diamond 8
+Diamond 3
+Club 3
+Club 6
+Club Q
+Club K
+Club 6
+Club 10
+Diamond 8
+Diamond 7
+Diamond 7
+Diamond 7
+Heart K
+Heart K
+Heart 9
+Heart 8
+Heart 8
+Spade K
+Spade K
+Spade K
+Spade Q
+Spade Q
+Spade J
+Spade 10
+Spade 10
+Spade 10
+Spade 10
+Spade 8
+Spade 8
+Spade 8
+Spade 7
+Spade 7
+Spade 6
+Spade 5
+Spade 4
+Heart 3
+Club 6

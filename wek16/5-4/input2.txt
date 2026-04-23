@@ -1,0 +1,58 @@
+19 37
+bCU______
+ COX______
+  dwy______
+   EKX______
+    fRl______
+     Gcd______
+    hnM______
+    IOB______
+     jqk______
+  KzG______
+   lie______
+    MDd______
+     nmP______
+      OUY______
+      pHZ______
+      QHo______
+  rHl______
+   SSs______
+   tcX______
+QHo______ is a descendant of pHZ______.
+jqk______ is an ancestor of jqk______.
+MDd______ is a child of nmP______.
+hnM______ is the parent of hnM______.
+EKX______ is the parent of hnM______.
+EKX______ is a sibling of COX______.
+MDd______ is an ancestor of QHo______.
+KzG______ is an ancestor of QHo______.
+Gcd______ is a descendant of KzG______.
+bCU______ is a child of SSs______.
+hnM______ is an ancestor of nmP______.
+nmP______ is a descendant of jqk______.
+dwy______ is a sibling of rHl______.
+dwy______ is a child of SSs______.
+OUY______ is a sibling of nmP______.
+jqk______ is a sibling of jqk______.
+MDd______ is the parent of QHo______.
+QHo______ is an ancestor of QHo______.
+Gcd______ is a sibling of dwy______.
+COX______ is the parent of rHl______.
+IOB______ is an ancestor of hnM______.
+rHl______ is a sibling of nmP______.
+QHo______ is a sibling of OUY______.
+pHZ______ is a child of jqk______.
+lie______ is a child of KzG______.
+EKX______ is the parent of hnM______.
+bCU______ is a descendant of bCU______.
+tcX______ is a sibling of tcX______.
+SSs______ is a descendant of COX______.
+Gcd______ is a child of tcX______.
+MDd______ is a descendant of bCU______.
+lie______ is a descendant of COX______.
+rHl______ is a sibling of tcX______.
+OUY______ is a sibling of lie______.
+KzG______ is a sibling of tcX______.
+IOB______ is an ancestor of jqk______.
+bCU______ is a child of bCU______.
+0 0

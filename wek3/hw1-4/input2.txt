@@ -1,0 +1,21 @@
+20
+Pop
+Pop
+Append Spade 6
+Pop
+Append Heart 8
+Pop
+Pop
+Append Spade 3
+Append Spade J
+Pop
+Append Heart 9
+Append Club 3
+Append Diamond 8
+Append Diamond 3
+Append Club Q
+Pop
+Pop
+Append Diamond 10
+Append Heart 2
+Append Spade 4
